@@ -9,6 +9,8 @@ class Global {
       password,
       address,
       //
+      ///
+      /// //
       course_degree,
       school_college_insitute,
       s_c_i_persentage,
